@@ -1,0 +1,968 @@
+.to-export {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.to-export .v-to-export {
+  background-color: #000000;
+  height: 1017px;
+  position: relative;
+  width: 1728px;
+}
+
+.to-export .frame {
+  height: 40px;
+  left: 410px;
+  position: absolute;
+  top: 19px;
+  width: 1302px;
+}
+
+.to-export .search {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 16px;
+  position: relative;
+}
+
+.to-export .search-bar {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #b0b0b0;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px 16px;
+  position: relative;
+  width: 1217px;
+}
+
+.to-export .label-presets {
+  color: #f9f9f9;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.to-export .search-cta {
+  all: unset;
+  align-items: center;
+  background-color: #76d191;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 40px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 6px 16px;
+  position: relative;
+}
+
+.to-export .text-wrapper {
+  color: #f9f9f9;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.to-export .group {
+  height: 106px;
+  left: 16px;
+  position: absolute;
+  top: 19px;
+  width: 378px;
+}
+
+.to-export .left-tab-wrapper {
+  height: 106px;
+}
+
+.to-export .left-tab {
+  background-color: #262730;
+  border-radius: 12px;
+  height: 106px;
+  overflow: hidden;
+  position: relative;
+  width: 378px;
+}
+
+.to-export .div {
+  align-items: center;
+  display: inline-flex;
+  gap: 14px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+}
+
+.to-export .icon-instance-node {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.to-export .text-wrapper-2 {
+  color: #c0c0c0;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.to-export .cohorts {
+  align-items: center;
+  display: inline-flex;
+  gap: 14px;
+  left: 20px;
+  position: absolute;
+  top: 62px;
+}
+
+.to-export .frame-2 {
+  background-color: #262730;
+  border-radius: 12px;
+  height: 141px;
+  left: 410px;
+  position: absolute;
+  top: 75px;
+  width: 1304px;
+}
+
+.to-export .ellipse {
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  height: 20px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 20px;
+}
+
+.to-export .label-presets-2 {
+  color: #ffffff;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  height: 20px;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.to-export .group-2 {
+  height: 20px;
+  left: 1006px;
+  position: absolute;
+  top: 20px;
+  width: 127px;
+}
+
+.to-export .label-presets-3 {
+  color: #959090;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 2px;
+}
+
+.to-export .overlap-group-wrapper {
+  height: 20px;
+  left: 105px;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.to-export .overlap-group {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #7ec877;
+  border-radius: 10px;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.to-export .label-presets-4 {
+  color: var(--green);
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 15px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+}
+
+.to-export .group-3 {
+  height: 20px;
+  left: 1171px;
+  position: absolute;
+  top: 20px;
+  width: 117px;
+}
+
+.to-export .label-presets-5 {
+  color: #ffffff;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 0;
+}
+
+.to-export .text-wrapper-3 {
+  color: var(--green);
+  font-family: "Source Code Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 15px;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 2px;
+}
+
+.to-export .overlap-wrapper {
+  height: 66px;
+  left: 20px;
+  position: absolute;
+  top: 56px;
+  width: 165px;
+}
+
+.to-export .overlap {
+  border-radius: 12px;
+  height: 66px;
+  position: relative;
+  width: 159px;
+}
+
+.to-export .label-presets-6 {
+  color: #f9f9f9;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.to-export .text-wrapper-4 {
+  color: #f9f9f9;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  height: 17px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+}
+
+.to-export .text-wrapper-5 {
+  color: #ff4c4c;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 68px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 36px;
+}
+
+.to-export .rectangle {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 12px;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 159px;
+}
+
+.to-export .div-wrapper {
+  height: 66px;
+  left: 204px;
+  position: absolute;
+  top: 56px;
+  width: 165px;
+}
+
+.to-export .group-4 {
+  height: 66px;
+  left: 388px;
+  position: absolute;
+  top: 56px;
+  width: 165px;
+}
+
+.to-export .group-5 {
+  height: 66px;
+  left: 572px;
+  position: absolute;
+  top: 56px;
+  width: 165px;
+}
+
+.to-export .group-6 {
+  height: 66px;
+  left: 756px;
+  position: absolute;
+  top: 56px;
+  width: 165px;
+}
+
+.to-export .group-7 {
+  height: 66px;
+  left: 940px;
+  position: absolute;
+  top: 56px;
+  width: 165px;
+}
+
+.to-export .group-8 {
+  height: 66px;
+  left: 1124px;
+  position: absolute;
+  top: 56px;
+  width: 165px;
+}
+
+.to-export .frame-wrapper {
+  height: 759px;
+  left: 410px;
+  position: absolute;
+  top: 232px;
+  width: 1304px;
+}
+
+.to-export .frame-3 {
+  background-color: #262730;
+  border-radius: 12px;
+  height: 759px;
+  overflow: hidden;
+  position: relative;
+}
+
+.to-export .group-9 {
+  height: 96px;
+  left: 0;
+  position: absolute;
+  top: 92px;
+  width: 1306px;
+}
+
+.to-export .label-presets-7 {
+  color: #ffffff;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 21.2px;
+  font-weight: 700;
+  height: 20px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .group-10 {
+  height: 15px;
+  left: 18px;
+  position: absolute;
+  top: 40px;
+  width: 1149px;
+}
+
+.to-export .label-presets-wrapper {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.to-export .label-presets-8 {
+  color: #959090;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 15px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.to-export .frame-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 20px;
+  left: 217px;
+  position: absolute;
+  top: 0;
+}
+
+.to-export .frame-5 {
+  height: 15px;
+  position: relative;
+  width: 116px;
+}
+
+.to-export .label-presets-9 {
+  color: #959090;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 15px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.to-export .label-presets-10 {
+  color: #959090;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 15px;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+}
+
+.to-export .label-presets-11 {
+  color: #959090;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 15px;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+}
+
+.to-export .label-presets-12 {
+  color: #959090;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 15px;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+}
+
+.to-export .label-presets-13 {
+  color: #959090;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 15px;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+}
+
+.to-export .label-presets-14 {
+  color: #959090;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 15px;
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+}
+
+.to-export .label-presets-15 {
+  color: #959090;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 15px;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+}
+
+.to-export .group-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 69px;
+}
+
+.to-export .group-11 {
+  height: 27px;
+  margin-right: -16px;
+  position: relative;
+  width: 1320px;
+}
+
+.to-export .p {
+  color: #d4fae5;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 20px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .label-presets-16 {
+  color: #d4fae5;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 20px;
+  left: 235px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .label-presets-17 {
+  color: #d4fae5;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 20px;
+  left: 452px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .label-presets-18 {
+  color: #d4fae5;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 20px;
+  left: 573px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .label-presets-19 {
+  color: #d4fae5;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 20px;
+  left: 718px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .label-presets-20 {
+  color: #d4fae5;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 20px;
+  left: 823px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .label-presets-21 {
+  color: #d4fae5;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 20px;
+  left: 1003px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .label-presets-22 {
+  color: #959090;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  height: 20px;
+  left: 1097px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .group-12 {
+  background-image: url(https://c.animaapp.com/rydstUPE/img/image-11-15@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 1270px;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.to-export .line {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 1304px;
+}
+
+.to-export .frame-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 195px;
+}
+
+.to-export .frame-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 229px;
+}
+
+.to-export .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 263px;
+}
+
+.to-export .frame-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 297px;
+}
+
+.to-export .frame-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 331px;
+}
+
+.to-export .frame-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 365px;
+}
+
+.to-export .frame-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 399px;
+}
+
+.to-export .frame-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 433px;
+}
+
+.to-export .frame-14 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 467px;
+}
+
+.to-export .frame-15 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 501px;
+}
+
+.to-export .frame-16 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 535px;
+}
+
+.to-export .frame-17 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 569px;
+}
+
+.to-export .frame-18 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 603px;
+}
+
+.to-export .frame-19 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 637px;
+}
+
+.to-export .frame-20 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  position: absolute;
+  top: 671px;
+}
+
+.to-export .group-13 {
+  height: 20px;
+  left: 22px;
+  position: absolute;
+  top: 21px;
+  width: 260px;
+}
+
+.to-export .label-presets-23 {
+  color: #f9f9f9;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .label-presets-24 {
+  color: #f9f9f9;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 20px;
+  left: 103px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .label-presets-25 {
+  color: #f9f9f9;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 20px;
+  left: 219px;
+  letter-spacing: 0;
+  line-height: 19.7px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.to-export .img {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 1304px;
+}
+
+.to-export .group-14 {
+  height: 20px;
+  left: 1230px;
+  position: absolute;
+  top: 719px;
+  width: 56px;
+}
+
+.to-export .chevrons-right-wrapper {
+  background-color: #3a3a3a;
+  border-radius: 8px;
+  height: 20px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.to-export .chevrons-right {
+  height: 16px !important;
+  left: 5px !important;
+  position: absolute !important;
+  top: 2px !important;
+  width: 16px !important;
+}
+
+.to-export .overlap-2 {
+  border-radius: 8px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.to-export .rectangle-2 {
+  background-color: #3a3a3a;
+  border-radius: 8px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 26px;
+}
